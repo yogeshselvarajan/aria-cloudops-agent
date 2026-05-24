@@ -130,7 +130,7 @@ Production war rooms regularly involve raw log output, environment names, intern
 
 ## Blog Post
 
-Read the full build walkthrough: [Building ARIA on AWS Builder Center](YOUR_BLOG_URL)
+Read the full build walkthrough: [Building ARIA on AWS Builder Center](https://builder.aws.com/content/3EAhVVC6Gfizlmt8P8Zjr5EFAnn/building-a-privacy-first-cloudops-triage-agent-with-strands-sdk-and-ollama)
 
 ---
 
